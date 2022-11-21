@@ -125,4 +125,3 @@ console.log(song2.toUpperCase())
 let userInput=`   GREG@fakemail.com`
 let cleanInputs=userInput.trim().toLowerCase()
 
-u
