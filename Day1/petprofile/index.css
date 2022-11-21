@@ -1,0 +1,23 @@
+.profilePic {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+}
+
+.backgroundColor {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.mainTitle {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+.hobbies li{
+    color: white;
+    list-style-type:none;
+}
+.hobbies{
+    padding: 30px;
+}
